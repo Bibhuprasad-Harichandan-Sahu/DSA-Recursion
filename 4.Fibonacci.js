@@ -9,4 +9,14 @@ function fibonacci(n){
    for(let i = 0; i<num;  ++i){
     console.log(fibonacci(i))
    }
+//output->
+// 0
+// 1
+// 1
+// 2
+// 3
+// 5
+// 8
+// 13
+
    
